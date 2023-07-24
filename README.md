@@ -7,6 +7,8 @@ Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 I am a Data Science self-taught student
 --------------------------------------
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moniquecardoso25&theme=dark)](https://github.com/moniquecardoso25)
+
 I *study by myself* through free internet courses and content. I am very proactive and share my learning here.
 
 * 🌍  I'm based in Brazil
@@ -16,22 +18,29 @@ I *study by myself* through free internet courses and content. I am very proacti
 * 🎯  Active learning methodology - *learning by doing*
   
 
+## IDE
+[![](https://img.shields.io/badge/Jupyter-F7931E?style=for-the-badge&logo=Jupyter&logoColor=black) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
 
-### Skills
+## Skills
+[![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=whit) ![](https://img.shields.io/badge/Matplotlib-00979D?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
-</p>
+## Courses
+[![IBM Data Science Specialization](https://img.shields.io/badge/IBM%20Data%20Science-Specialization-blueviolet)](https://www.coursera.org/account/accomplishments/specialization/certificate/4YYSZ8JRV4GN)
+
+
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/moniquecardoso25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/monique-cardoso21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com//@moniquecardoso123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
 
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/moniquecardoso25"><img src="https://github-readme-stats.vercel.app/api?username=moniquecardoso25&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=facc15&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="moniquecardoso25's GitHub stats" /></a>
 
-<a href="http://www.github.com/moniquecardoso25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moniquecardoso25&stroke=14b8a6&background=000000&ring=facc15&fire=facc15&currStreakNum=14b8a6&currStreakLabel=facc15&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+## GitHub Analytics
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moniquecardoso25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moniquecardoso25&layout=compact&langs_count=8&theme=dark"/>](https://github.com/moniquecardoso25)
+
+
+
+
+## GitHub Streaks
+[![](https://github-readme-streak-stats.herokuapp.com/?user=moniquecardoso25&theme=dark)](https://github.com/moniquecardoso25)
