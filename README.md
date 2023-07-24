@@ -1,7 +1,6 @@
 ![image](https://github.com/moniquecardoso25/moniquecardoso25/assets/140358716/e3ef1690-26a2-468e-89fb-832a2bd9f472)
 
 
-
 Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ============================================================================================================================================
 
@@ -18,6 +17,9 @@ I *study by myself* through free internet courses and content. I am very proacti
 * 😍  Passion for learning and researching new things
 * 🎯  Active learning methodology - *learning by doing*
   
+## Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moniquecardoso25&repo=Data-Science-Projects)](https://github.com/moniquecardoso25/Data-Science-Projects) 
+
 
 ## IDE
 [![](https://img.shields.io/badge/Jupyter-F7931E?style=for-the-badge&logo=Jupyter&logoColor=black) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
