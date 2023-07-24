@@ -1,14 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Monique Cardoso 🌻😊
+![image](https://github.com/moniquecardoso25/moniquecardoso25/assets/140358716/6fe2a408-2462-4c4c-8f16-2a6cc4fed66e)
+
+
+Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ============================================================================================================================================
 
 I am a Data Science self-taught student
----------------------------------------
+--------------------------------------
 
-I study by myself through free internet courses and content. I am very proactive and passionate about Data Science. I'm studying Cloud Computing AWS and I share my learning here.
+I *study by myself* through free internet courses and content. I am very proactive and share my learning here.
 
 * 🌍  I'm based in Brazil
-* 🧠  I'm learning Python, Machine Learning and AWS
-* 🤝  I'm open to collaborating on Data Science projetcs
+* 🌻  I study Python, Machine Learning and AWS
+* 🌱  Creating my own experience and opportunity through practicing Data Science projects
+* 😍  Passion for learning and researching new things
+* 🎯  Active learning methodology - *learning by doing*
+  
 
 
 ### Skills
