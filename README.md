@@ -22,13 +22,10 @@ I *study by myself* through free internet courses and content. I am very proacti
 
 
 ## IDE
-[![](https://img.shields.io/badge/Jupyter-F7931E?style=for-the-badge&logo=Jupyter&logoColor=black) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
+[![](https://img.shields.io/badge/Jupyter-F7931E?style=for-the-badge&logo=Jupyter&logoColor=black) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/moniquecardoso25)
 
 ## Skills
-[![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=whit) ![](https://img.shields.io/badge/Matplotlib-00979D?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
-
-## Courses
-[![IBM Data Science Specialization](https://img.shields.io/badge/IBM%20Data%20Science-Specialization-blueviolet)](https://www.coursera.org/account/accomplishments/specialization/certificate/4YYSZ8JRV4GN)
+[![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=whit) ![](https://img.shields.io/badge/Matplotlib-00979D?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://github.com/moniquecardoso25)
 
 
 
