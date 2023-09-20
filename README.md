@@ -12,20 +12,15 @@ I am a Data Science self-taught student
 I *study by myself* through free internet courses and content. I am very proactive and share my learning here.
 
 * 🌍  I'm based in Brazil
-* 🌻  I study Python, Machine Learning and AWS
-* 🌱  Creating my own experience and opportunity through practicing Data Science projects
+* 🌻  I study Python, Machine Learning and Cloud Computing
+* 🌱  Creating my own experience and opportunity through practicing Data Science projects and Cloud Computing Labs
 * 😍  Passion for learning and researching new things
 * 🎯  Active learning methodology - *learning by doing*
   
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moniquecardoso25&repo=Data-Science-Projects)](https://github.com/moniquecardoso25/Data-Science-Projects) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moniquecardoso25&repo=Data-Science-Projects)](https://github.com/moniquecardoso25/Data-Science-Projects) 
 
-
-## IDE
-[![](https://img.shields.io/badge/Jupyter-F7931E?style=for-the-badge&logo=Jupyter&logoColor=black) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/moniquecardoso25)
-
-## Skills
-[![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=whit) ![](https://img.shields.io/badge/Matplotlib-00979D?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://github.com/moniquecardoso25)
 
 
 
