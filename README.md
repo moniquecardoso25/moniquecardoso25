@@ -22,6 +22,8 @@ I *study by myself* through free internet courses and content. I am very proacti
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moniquecardoso25&repo=Google-Cloud)](https://github.com/moniquecardoso25/Google-Cloud) 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moniquecardoso25&repo=Google-Cloud-Digital-Leader)](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader) 
+
 
 
 
