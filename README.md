@@ -12,8 +12,8 @@ I am a Data Science self-taught student
 I *study by myself* through free internet courses and content. I am very proactive and share my learning here.
 
 * 🌍  I'm based in Brazil
-* 🌻  I study Python, Machine Learning and Cloud Computing
-* 🌱  Creating my own experience and opportunity through practicing Data Science projects and Cloud Computing Labs
+* 🌻  I study AI Engineering
+* 🌱  Creating my own experience and opportunity through practicing Data Science/AI projects and Cloud Computing Labs or certifications
 * 😍  Passion for learning and researching new things
 * 🎯  Active learning methodology - *learning by doing*
 
