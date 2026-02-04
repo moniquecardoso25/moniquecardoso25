@@ -13,8 +13,8 @@ I *study by myself* through free internet courses and content. I am very proacti
 
 * 🌍  I'm based in Brazil
 * 🌻  I study AI Engineering
-* 🌱  Creating my own experience and opportunity through practicing Data Science/AI projects and Cloud Computing Labs or certifications
-* 😍  Passion for learning and researching new things
+* 🌱  Creating my own experience and opportunity.
+* 😍  Certiified in AWS Cloud Practiitioner, Azure AI Fundamentals and Google Generative AI Leader
 * 🎯  Active learning methodology - *learning by doing*
 
 
