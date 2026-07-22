@@ -4,10 +4,6 @@
 Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ============================================================================================================================================
 
-I am a Data Science self-taught student
---------------------------------------
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moniquecardoso25&theme=dark)](https://github.com/moniquecardoso25)
 
 I *study by myself* through free internet courses and content. I am very proactive and share my learning here.
 
