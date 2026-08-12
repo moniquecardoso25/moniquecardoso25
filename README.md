@@ -1,5 +1,3 @@
-![image](https://github.com/moniquecardoso25/moniquecardoso25/assets/140358716/e3ef1690-26a2-468e-89fb-832a2bd9f472)
-
 
 GITHUB PROFILE UNDER RENOVATION AND CONSTRUCTION
 ============================================================================================================================================
