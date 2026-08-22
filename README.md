@@ -64,11 +64,11 @@ Atualmente, estou aprofundando meus conhecimentos em ciência de dados, desenvol
 
 ## 🎓 Formação
 
-**Tecnologia em Ciência de Dados**  
+**Tecnólogo em Ciência de Dados**  
 Estácio
 
-**Engenharia Química**  
-Formação em Engenharia Química
+**Bacharel em Engenharia Química**  
+Unigranrio
 
 ---
 
