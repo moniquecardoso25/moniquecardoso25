@@ -74,7 +74,6 @@ Unigranrio
 
 ## 📜 Certificações
 
-- Microsoft Machine Learning Operations Engineer Associate (nova certificação) - estudando
 - Google Generative AI Leader
 - AWS AI Practitioner
 - Azure AI Fundamentals
