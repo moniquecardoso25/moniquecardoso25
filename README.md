@@ -2,7 +2,7 @@
 Monique Cardoso
 ============================================================================================================================================
 
-### 🔎 Cientista de Dados Júnior | Python • SQL • Machine Learning • Power BI • IA Generativa
+### 🔎 Cientista de Dados Júnior 
 
 Sou formada em **Ciência de Dados e Engenharia Química**, com experiência prática em **dados, análise, Inteligência Artificial e desenvolvimento de soluções**.
 
