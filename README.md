@@ -2,9 +2,6 @@
 Monique Cardoso
 ============================================================================================================================================
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=moniquecardoso25&theme=dark)](https://github.com/moniquecardoso25)
-
-
 ### 🔎 Cientista de Dados Júnior | Python • SQL • Machine Learning • Power BI • IA Generativa
 
 Sou formada em **Ciência de Dados e Engenharia Química**, com experiência prática em **dados, análise, Inteligência Artificial e desenvolvimento de soluções**.
@@ -15,42 +12,42 @@ Atualmente, estou aprofundando meus conhecimentos em **Data Science**, desenvolv
 
 ---
 
-## 🧠 Principais áreas
+## Principais áreas
 
-- 📊 **Data Analysis & Analytics** — tratamento, exploração e análise de dados, identificação de padrões e geração de insights
-- 🤖 **Machine Learning** — modelos preditivos, classificação, regressão e avaliação de modelos
-- 📈 **Business Intelligence** — dashboards, KPIs e visualização de dados com Power BI
-- 🐍 **Python para Dados** — Pandas, NumPy, Scikit-learn, Matplotlib e Seaborn
-- 🗄️ **SQL** — consultas, manipulação e análise de dados
-- 🧠 **IA Generativa** — LLMs, RAG, agentes de IA e aplicações com modelos generativos
-- ☁️ **Cloud & AI** — experiência com AWS, Azure e Google Cloud
-- 🔧 **Desenvolvimento** — Git, GitHub, Docker e criação de protótipos de aplicações de dados e IA
+- **Data Analysis & Analytics** — tratamento, exploração e análise de dados, identificação de padrões e geração de insights
+- **Machine Learning** — modelos preditivos, classificação, regressão e avaliação de modelos
+- **Business Intelligence** — dashboards, KPIs e visualização de dados com Power BI
+- **Python para Dados** — Pandas, NumPy, Scikit-learn, Matplotlib e Seaborn
+- **SQL** — consultas, manipulação e análise de dados
+- **IA Generativa** — LLMs, RAG, agentes de IA e aplicações com modelos generativos
+- **Cloud & AI** — experiência com AWS, Azure e Google Cloud
+- **Desenvolvimento** — Git, GitHub, Docker e criação de protótipos de aplicações de dados e IA
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 🐍 Linguagens & Dados
+### Linguagens & Dados
 
 `Python` `SQL` 
 
-### 📊 Data Science & Machine Learning
+### Data Science & Machine Learning
 
 `Scikit-learn` `Machine Learning` `EDA` `Statistics` `Feature Engineering`
 
-### 📈 Business Intelligence
+### Business Intelligence
 
 `Power BI` `DAX` `Data Visualization` `Dashboards`
 
-### 🤖 Inteligência Artificial
+### Inteligência Artificial
 
 `Generative AI` `LLMs` `Llamaindex` `Prompt Engineering` `AI Agents`
 
-### ☁️ Cloud & Development
+### Cloud & Development
 
 `AWS` `Azure` `Google Cloud ` `IBM watsonx` `Docker` `Git` `GitHub`
 
-### 🔧 Ferramentas e Plataformas
+### Ferramentas e Plataformas
 
 `Databricks` `H2O Wave` `Langflow` `Llamaindex`
 
@@ -58,10 +55,10 @@ Atualmente, estou aprofundando meus conhecimentos em **Data Science**, desenvolv
 
 ## 🏆 Conquistas
 
-- 🥉 **3º lugar no Skip Challenge** — hackathon, desenvolvimento de solução de IA aplicada ao agronegócio
-- 🚀 **Finalista regional do NASA Space Apps Challenge 2024 e 2025** — participação no hackathon internacional de inovação
-- 🧠 Desenvolvimento de **POCs e demonstrações de soluções de Dados e IA**
-- 🤖 Experiência prática com **IA Generativa, LLMs e aplicações baseadas em RAG**
+- **3º lugar no Skip Challenge** — hackathon, desenvolvimento de solução de IA aplicada ao agronegócio
+- **Finalista regional do NASA Space Apps Challenge 2024 e 2025** — participação no hackathon internacional de inovação
+- Desenvolvimento de **POCs e demonstrações de soluções de Dados e IA**
+- Experiência prática com **IA Generativa, LLMs e aplicações baseadas em RAG**
 
 ---
 
@@ -77,10 +74,10 @@ Formação em Engenharia Química
 
 ## 📜 Certificações
 
-- ☁️ AWS Cloud Practitioner
-- 🤖 Azure AI Fundamentals
-- 🧠 Google Generative AI Leader
-- ☁️ AWS AI Practitioner
+- AWS Cloud Practitioner
+- Azure AI Fundamentals
+- Google Generative AI Leader
+- AWS AI Practitioner
 
 ---
 
@@ -93,9 +90,12 @@ Formação em Engenharia Química
 
 ## 📫 Vamos conectar?
 
-💼 [LinkedIn](https://www.linkedin.com/in/moniquercardoso)  
-🌐 [Site](https://moniquecardoso.vercel.app/)  
+[LinkedIn](https://www.linkedin.com/in/moniquercardoso)  
+[Site](https://moniquecardoso.vercel.app/)  
 
 ---
 
 ⭐ Obrigada pela visita! 
+
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=moniquecardoso25&theme=dark)](https://github.com/moniquecardoso25)
