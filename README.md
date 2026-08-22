@@ -55,8 +55,8 @@ Atualmente, estou aprofundando meus conhecimentos em ciência de dados, desenvol
 
 ## 🏆 Conquistas
 
-- **3º lugar no Skip Challenge** — hackathon, desenvolvimento de solução de IA aplicada ao agronegócio
-- **Finalista regional do NASA Space Apps Challenge 2024 e 2025** — participação no hackathon internacional de inovação
+- **3º lugar no Skip Challenge - Adapta** — hackathon, desenvolvimento de solução de IA aplicada ao agronegócio
+- **Finalista regional do NASA Space Apps Challenge 2024 e 2025** — hackathon internacional da área espacial
 - 1º lugar no hackathon da empresa EDS - criação de uma solução de governança de dados.
 
 ---
