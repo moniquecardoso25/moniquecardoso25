@@ -4,11 +4,11 @@ Monique Cardoso
 
 ### 🔎 Cientista de Dados Júnior 
 
-Sou formada em **Ciência de Dados e Engenharia Química**, com experiência prática em **dados, análise, Inteligência Artificial e desenvolvimento de soluções**.
+Sou formada em **Ciência de Dados e Engenharia Química**, com experiência prática em dados, análise, Inteligência Artificial e desenvolvimento de soluções.
 
-Gosto de transformar dados em **insights, modelos preditivos e soluções que ajudam a resolver problemas reais**. Tenho experiência com projetos de **Data Science, Business Intelligence e IA Generativa**, desde a exploração e preparação dos dados até a construção de modelos, dashboards e protótipos.
+Gosto de transformar dados em **insights, modelos preditivos e soluções que ajudam a resolver problemas reais**. 
 
-Atualmente, estou aprofundando meus conhecimentos em **Data Science**, desenvolvendo projetos práticos e construindo meu portfólio.
+Atualmente, estou aprofundando meus conhecimentos em ciência de dados, desenvolvendo projetos práticos e construindo meu portfólio.
 
 ---
 
@@ -57,8 +57,8 @@ Atualmente, estou aprofundando meus conhecimentos em **Data Science**, desenvolv
 
 - **3º lugar no Skip Challenge** — hackathon, desenvolvimento de solução de IA aplicada ao agronegócio
 - **Finalista regional do NASA Space Apps Challenge 2024 e 2025** — participação no hackathon internacional de inovação
-- Desenvolvimento de **POCs e demonstrações de soluções de Dados e IA**
-- Experiência prática com **IA Generativa, LLMs e aplicações baseadas em RAG**
+- Desenvolvimento de POCs e demonstrações de soluções de Dados e IA
+- Experiência prática com IA Generativa, LLMs e aplicações baseadas em RAG
 
 ---
 
@@ -88,7 +88,7 @@ Formação em Engenharia Química
 
 ---
 
-## 📫 Vamos conectar?
+## 📫 Vamos nos conectar?
 
 [LinkedIn](https://www.linkedin.com/in/moniquercardoso)  
 [Site](https://moniquecardoso.vercel.app/)  
