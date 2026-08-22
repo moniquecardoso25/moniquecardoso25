@@ -74,10 +74,10 @@ Unigranrio
 
 ## 📜 Certificações
 
-- AWS Cloud Practitioner
-- Azure AI Fundamentals
+- Microsoft Machine Learning Operations Engineer Associate (nova certificação) - Estudando
 - Google Generative AI Leader
 - AWS AI Practitioner
+- Azure AI Fundamentals
 
 ---
 
@@ -96,6 +96,5 @@ Unigranrio
 ---
 
 ⭐ Obrigada pela visita! 
-
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=moniquecardoso25&theme=dark)](https://github.com/moniquecardoso25)
