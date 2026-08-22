@@ -10,14 +10,14 @@ Sou formada em Ciência de Dados e Engenharia Química, com experiência prátic
 
 ## 🔎 Principais áreas
 
-- **Data Analysis & Analytics** — tratamento, exploração e análise de dados, identificação de padrões e geração de insights
-- **Machine Learning** — modelos preditivos, classificação, regressão e avaliação de modelos
-- **Business Intelligence** — dashboards, KPIs e visualização de dados com Power BI
-- **Python para Dados** — Pandas, NumPy, Scikit-learn, Matplotlib e Seaborn
-- **SQL** — consultas, manipulação e análise de dados
-- **IA Generativa** — LLMs, RAG, agentes de IA e aplicações com modelos generativos
-- **Cloud & AI** — experiência com AWS, Azure e Google Cloud
-- **Desenvolvimento** — Git, GitHub, Docker e criação de protótipos de aplicações de dados e IA
+- **Data Analysis & Analytics** — tratamento, exploração e análise de dados, identificação de padrões e geração de insights.
+- **Machine Learning** — modelos preditivos, classificação, regressão e avaliação de modelos.
+- **Business Intelligence** — dashboards, KPIs e visualização de dados com Power BI.
+- **Python para Dados** — Pandas, NumPy, Scikit-learn, Matplotlib e Seaborn.
+- **SQL** — consultas, manipulação e análise de dados.
+- **IA Generativa** — LLMs, RAG, agentes de IA e aplicações com modelos generativos.
+- **Cloud & AI** — experiência com AWS, Azure e Google Cloud.
+- **Desenvolvimento** — Git, GitHub, Docker e criação de protótipos de aplicações de dados e IA.
 
 ---
 
@@ -51,8 +51,8 @@ Sou formada em Ciência de Dados e Engenharia Química, com experiência prátic
 
 ## 🏆 Conquistas
 
-- **3º lugar no Skip Challenge - Adapta** — hackathon, desenvolvimento de solução de IA aplicada ao agronegócio
-- **Finalista regional do NASA Space Apps Challenge 2024 e 2025** — hackathon internacional da área espacial
+- **3º lugar no Skip Challenge - Adapta** — hackathon, desenvolvimento de solução de IA aplicada ao agronegócio.
+- **Finalista regional do NASA Space Apps Challenge 2024 e 2025** — hackathon internacional da área espacial.
 - 1º lugar no hackathon da empresa EDS - criação de uma solução de governança de dados.
 
 ---
