@@ -2,13 +2,13 @@
 Monique Cardoso
 ============================================================================================================================================
 
-### 🔎 Cientista de Dados Júnior 
+### Cientista de Dados Júnior 
 
 Sou formada em Ciência de Dados e Engenharia Química, com experiência prática em dados e inteligência artificial. Gosto de transformar dados em insights e criar soluções que ajudam a resolver problemas reais de negócio. Atualmente, estou aprofundando meus conhecimentos em ciência de dados, desenvolvendo projetos práticos e construindo meu portfólio.
 
 ---
 
-## Principais áreas
+## 🔎 Principais áreas
 
 - **Data Analysis & Analytics** — tratamento, exploração e análise de dados, identificação de padrões e geração de insights
 - **Machine Learning** — modelos preditivos, classificação, regressão e avaliação de modelos
